@@ -1,1 +1,1 @@
-FROM openjdk8-alpine:latest
+FROM openjdk:8-alpine:latest
