@@ -1,1 +1,1 @@
-FROM openjdk:8-alpine
+FROM azurecr.io/dev-client:92
